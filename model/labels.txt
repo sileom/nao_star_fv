@@ -1,0 +1,6 @@
+auto
+mucca
+cane
+pecora
+treno
+sfondo
